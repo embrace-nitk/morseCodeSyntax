@@ -79,7 +79,7 @@ span.frac > span {
 
 #copyright {
   position: absolute;
-  left: 280px;
+  left: 50px;
   top: 580px;
   font-size: 12px;
 }
@@ -350,3 +350,8 @@ td {
 	margin-left: 100px;
 }
  */
+
+.cp {
+  font-size: 16px;
+  font-weight: 900;
+}
